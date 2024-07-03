@@ -7,7 +7,7 @@ div.container p.text{
 
 /* This technically works but it's better like this
 
-div.container p.text{
+.container .text{
     background-color: yellow;
     color: red;
     font-size: 20px;
