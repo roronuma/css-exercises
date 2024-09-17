@@ -10,6 +10,9 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -24,3 +27,64 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.text{
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+ .flex2 {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 52px;
+  margin-right: 52px;
+}
+
+/* .berry {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 52px;
+  margin-right: 52px;
+
+} 
+
+.chilli {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 52px;
+  margin-right: 52px;
+}
+
+.bud {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 52px;
+  margin-right: 52px;
+}
+
+.flower {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 52px;
+  margin-right: 52px;
+} */
